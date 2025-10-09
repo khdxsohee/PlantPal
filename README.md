@@ -1,4 +1,4 @@
-# PlantPal - Your Interactive Plant Care Tracker
+# PlantPal - Your Interactive Plant Care Tracker 
 
 [Project Preview](https://khalid-randhawa.web.app/Interactive-Plant-Care-Tracker/index.html)
 
